@@ -14,7 +14,7 @@ LICENSE: [MIT](./license.md)
    * [Регистрация в GitHub](./sign_up.md)
    * [Установка настройка VSCode](./vscode.md)
    * [Создаем новый репозиторий](./repository.md)
-
+5. [Заключение](./opinion.md)
 
  
 
