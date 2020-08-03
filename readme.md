@@ -9,10 +9,14 @@ LICENSE: [MIT](./license.md)
 
 ### Содержание
 1. [Введение](./introduction.md)
-2. [Регистрация](./sign_up.md)
-3. [Создаем новый репозиторий](./repository.md)
-4. [Гид по GitHub](./github-guides.md)
-2. [git add](./add.md) 
+2. [Гид по GitHub](./github-guides.md)
+4. Необходимые действия для работы с GitHub
+   * [Регистрация в GitHub](./sign_up.md)
+   * [Установка настройка VSCode](./vscode.md)
+   * [Создаем новый репозиторий](./repository.md)
+
+
+ 
 
 
 
