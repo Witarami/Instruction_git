@@ -1,5 +1,6 @@
 # Инструкция по работе с GIT
 
+
 LICENSE: [MIT](./license.md)
 
 ![git-logo](./assets/Git-logo.svg.png)
@@ -9,7 +10,8 @@ LICENSE: [MIT](./license.md)
 ### Содержание
 1. [Введение](./introduction.md)
 2. [Регистрация](./sign_up.md)
-2. [git add](./add.md)
+3. [Создаем новый репозиторий](./repository.md)
+2. [git add](./add.md) 
 
 
 
